@@ -5,6 +5,10 @@ today, a new generation of Planeteers has risen up. However, Captain Planet is
 too busy fighting eco-terrorists to implement a React application of their own
 and it is our job to help their organize their data!
 
+
+## Deployed DB Link
+[DBjson](https://react-codechallenges.herokuapp.com/planeteers)
+
 ## Setup
 
 After unbundling the project:
